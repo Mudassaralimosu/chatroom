@@ -1,4 +1,4 @@
-# chatroom
+# chatroom StudyBuddy
 ChatRoom
 
 
