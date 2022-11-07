@@ -1,4 +1,4 @@
-# chatroom StudyBuddy
+# StudyBuddy built using Django
 ChatRoom
 
 
